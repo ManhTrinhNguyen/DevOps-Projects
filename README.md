@@ -8,3 +8,15 @@
 
 **AWS**: (https://github.com/ManhTrinhNguyen/AWS/tree/main)
 
+**Kubernetes** (https://github.com/ManhTrinhNguyen/Kubernetes/tree/main)
+
+**AWS EKS** (https://github.com/ManhTrinhNguyen/Kubernetes-on-AWS-EKS-/tree/main)
+
+**Terraform** (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform)
+
+**Python** (https://github.com/ManhTrinhNguyen/Python-Devops)
+
+**Ansible** (https://github.com/ManhTrinhNguyen/Ansible-)
+
+**Prometheus** (https://github.com/ManhTrinhNguyen/Prometheus)
+
