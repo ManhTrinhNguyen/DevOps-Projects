@@ -1,5 +1,7 @@
 ## DevOps-Projects from Techworld with Nana
 
+**Digital Ocean**: (https://github.com/ManhTrinhNguyen/Cloud-And-Infrastructure-as-Service-Basic-Digital-Ocean/tree/main)
+
 **Artifact Repository Manager Nexus**: (https://github.com/ManhTrinhNguyen/Nexus)
 
 **Docker**: (https://github.com/ManhTrinhNguyen/Docker-Project-Demo)
