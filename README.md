@@ -6,3 +6,5 @@
 
 **Jenkins**: (https://github.com/ManhTrinhNguyen/Jenkins)
 
+**AWS**: (https://github.com/ManhTrinhNguyen/AWS/tree/main)
+
