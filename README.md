@@ -1,4 +1,4 @@
-## DevOps-Projects from Techworld with Nana
+## DevOps-Projects Practical Hand-on experience
 
 **GIT**: (https://github.com/ManhTrinhNguyen/Git/blob/main/README.md)
 
