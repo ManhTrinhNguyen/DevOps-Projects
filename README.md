@@ -14,7 +14,7 @@
 
 **Kubernetes** (https://github.com/ManhTrinhNguyen/Kubernetes/tree/main)
 
-**AWS EKS** (https://github.com/ManhTrinhNguyen/Kubernetes-on-AWS-EKS-/tree/main)
+**AWS EKS** (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
 
 **Terraform** (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform)
 
