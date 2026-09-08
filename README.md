@@ -16,7 +16,7 @@
 
 **AWS EKS** (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
 
-**Terraform** (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform)
+**Terraform** (https://github.com/ManhTrinhNguyen/Terraform-Projects)
 
 **Python** (https://github.com/ManhTrinhNguyen/Python-Devops)
 
