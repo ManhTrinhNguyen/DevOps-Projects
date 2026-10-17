@@ -14,13 +14,13 @@
 
 **Kubernetes** (https://github.com/ManhTrinhNguyen/Kubernetes/tree/main)
 
-**AWS EKS** (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
+**Amazon EKS Deployment and GitOps Platform** (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
 
-**Terraform** (https://github.com/ManhTrinhNguyen/Terraform-Projects)
+**AWS Infrastructure Automation with Terraform** (https://github.com/ManhTrinhNguyen/Terraform-Projects)
 
-**Python** (https://github.com/ManhTrinhNguyen/Python-Devops)
+**Python Monitoring and Automated Recovery** (https://github.com/ManhTrinhNguyen/Python-Devops)
 
 **Ansible** (https://github.com/ManhTrinhNguyen/Ansible-)
 
-**Prometheus** (https://github.com/ManhTrinhNguyen/Prometheus)
+**Kubernetes Observability and Troubleshooting with Prometheus** (https://github.com/ManhTrinhNguyen/Prometheus)
 
